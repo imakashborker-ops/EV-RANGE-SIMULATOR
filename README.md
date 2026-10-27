@@ -1,6 +1,6 @@
 # EV Range Simulator
 
-A small, readable Python model of an electric vehicle's longitudinal dynamics and powertrain. Given a speed-vs-time drive cycle it computes battery power, state of charge (SOC), energy consumption (Wh/km) and estimated range.
+Developed a small, readable Python model of an electric vehicle's longitudinal dynamics and powertrain. Given a speed-vs-time drive cycle it computes battery power, state of charge (SOC), energy consumption (Wh/km) and estimated range.
 
 ## What it models
 
